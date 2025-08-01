@@ -159,3 +159,6 @@ public class Main {
         return sum;
     }
 }
+
+
+//Output for input.json is 3
